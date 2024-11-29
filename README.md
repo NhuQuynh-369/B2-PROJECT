@@ -1,0 +1,7 @@
+Syringe pumps are essential in labs for their unparalleled precision and control over fluid administration, especially with advancements in microprocessor technology. They offer near pulseless flow rates and gentle infusions, suitable for diverse experiments. High-pressure models ensure precise flow even with viscous or semi-solid materials. Regardless of environmental conditions, syringe pumps maintain accuracy, making them reliable instruments. Their ease of use and maintenance, along with features like accommodating multiple syringes for parallel dosing, make them ideal for various research fields, from neurology to mass spectrometry. 
+While syringe pumps provide accurate fluid delivery, they have limits and may not be appropriate for all applications. Unlike peristaltic pumps, which may pump forever, syringe pumps provide a predetermined volume of fluid and need human reloading or valve automation. Furthermore, their initial cost varies from one to several thousand dollars. With the syringe pump's constraints, our team aims to emulate the concept and tackle the problem of reloading and device cost. 
+Here is the state diagram machine:
+![State machine diagram](https://github.com/user-attachments/assets/99b6c41b-c80d-480c-ac7b-45def8549c08)
+<img width="293" alt="Block diagram" src="https://github.com/user-attachments/assets/64d671ad-dec9-4624-8b41-0843cda362eb">
+<img width="206" alt="Flow chart" src="https://github.com/user-attachments/assets/4db38dd1-0ac0-4477-90a8-9b31799c0081">
+
